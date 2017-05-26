@@ -1,8 +1,8 @@
 # ----
 # Site
 
-title: Code on the brain
-url: "https://www.code-on-the-brain.com"
+title: Shooting Companion
+url: "https://www.shootingcompanion.com"
 baseurl:
 google_analytics_key:
 newsletter_action: ""
@@ -10,13 +10,13 @@ disqus_shortname:
 
 # Values for the jekyll-seo-tag gem (https://github.com/jekyll/jekyll-seo-tag)
 logo: /siteicon.png
-description: Technology blog by Tim Pope
+description: Shooting blog by Tim Pope
 author:
   name: Tim Pope
   email: tim@code-on-the-brain.com
   twitter: Tim_50_6f_70_65
 social:
-  name: Code on the brain
+  name: Shooting Companion
   links:
     - https://github.com/CloudCannon/treat-jekyll-template
 
