@@ -11,7 +11,8 @@ For the more technically interested this blog is built using Jekyll (https://jek
 
 So I'm not sure what you should expect from this site at the moment to be honest as previous attempts at blogging have always resulted in failure. But my current line of thinking is that it'll have the following:
 
-	*	The CGC F-Class competition scores - I maintain these as a spreadsheet on Google Docs so it makes sense to embed these here (as I could not do this in our club forum)
+	*	The CGC F-Class competition scores - I maintain these as a spreadsheet on 
+		Google Docs so it makes sense to embed these here (as I could not do this in our club forum)
 	*	I'd like to actually make some progress on my app and hopefully post some progress updates along the way
 	*	Some posts on load developments or anything I'm trying to 'up my game'
 	*	Any other inane ramblings that have anything remotely related to shooting
