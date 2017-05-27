@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-27T21:42:43+01:00</updated><id>http://localhost:4000/</id><title type="html">Shooting Companion</title><subtitle>Shooting blog by Tim Pope</subtitle><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><entry><title type="html">First Post</title><link href="http://localhost:4000/general/2017/01/05/introduction/" rel="alternate" type="text/html" title="First Post" /><published>2017-01-05T00:00:00+00:00</published><updated>2017-01-05T00:00:00+00:00</updated><id>http://localhost:4000/general/2017/01/05/introduction</id><content type="html" xml:base="http://localhost:4000/general/2017/01/05/introduction/">&lt;p&gt;So after owning this domain for over a year and a half I’ve finally got around to actually having it go somewhere on the internet!&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-05-27T21:45:04+01:00</updated><id>http://localhost:4000/</id><title type="html">Shooting Companion</title><subtitle>Shooting blog by Tim Pope</subtitle><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><entry><title type="html">First Post</title><link href="http://localhost:4000/general/2017/01/05/introduction/" rel="alternate" type="text/html" title="First Post" /><published>2017-01-05T00:00:00+00:00</published><updated>2017-01-05T00:00:00+00:00</updated><id>http://localhost:4000/general/2017/01/05/introduction</id><content type="html" xml:base="http://localhost:4000/general/2017/01/05/introduction/">&lt;p&gt;So after owning this domain for over a year and a half I’ve finally got around to actually having it go somewhere on the internet!&lt;/p&gt;
 
 &lt;p&gt;For the more technically interested this blog is built using Jekyll (https://jekyllrb.com/) and is hosted for free (yay!) using Github Pages (https://pages.github.com/) giving me a very simple and more nerdy way to keep a blog than I’d have typically done with something like wordpress.&lt;/p&gt;
 
@@ -9,16 +9,4 @@
 *	Some posts on load developments or anything I'm trying to 'up my game'
 *	Any other inane ramblings that have anything remotely related to shooting
 &lt;/code&gt;&lt;/pre&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/euGck1ifvp0&quot; alt=&quot;Cookie&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Carefully placing them on the tray.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/z4qzNEwtqSM&quot; alt=&quot;Cookie&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Little Gavin loves them.&lt;/p&gt;
-
-&lt;p&gt;&lt;img src=&quot;https://source.unsplash.com/YnrSLOAjOEA&quot; alt=&quot;Cookie&quot; /&gt;&lt;/p&gt;
-
-&lt;p&gt;Delicious!&lt;/p&gt;</content><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><summary type="html">So after owning this domain for over a year and a half I’ve finally got around to actually having it go somewhere on the internet!</summary></entry></feed>
+&lt;/div&gt;</content><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><summary type="html">So after owning this domain for over a year and a half I’ve finally got around to actually having it go somewhere on the internet!</summary></entry></feed>
