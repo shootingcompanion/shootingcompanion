@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-06-28T16:59:00+01:00</updated><id>http://localhost:4000/</id><title type="html">Shooting Companion</title><subtitle>Shooting blog by Tim Pope</subtitle><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><entry><title type="html">Preparing to shoot at 1200 Yards</title><link href="http://localhost:4000/general/2017/06/22/preparing-ballistics/" rel="alternate" type="text/html" title="Preparing to shoot at 1200 Yards" /><published>2017-06-22T00:00:00+01:00</published><updated>2017-06-22T00:00:00+01:00</updated><id>http://localhost:4000/general/2017/06/22/preparing%20ballistics</id><content type="html" xml:base="http://localhost:4000/general/2017/06/22/preparing-ballistics/">&lt;p&gt;Some Members of Christchurch Gun Club will soon be taking up the challenge of shooting at 1200 Yards - We’ve been shooting 1000 Yards for a while and decided we wanted to make things even more challenging.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="http://jekyllrb.com" version="3.4.3">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2017-09-17T21:36:09+01:00</updated><id>http://localhost:4000/</id><title type="html">Shooting Companion</title><subtitle>Shooting blog by Tim Pope</subtitle><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><entry><title type="html">Preparing to shoot at 1200 Yards</title><link href="http://localhost:4000/general/2017/06/22/preparing-ballistics/" rel="alternate" type="text/html" title="Preparing to shoot at 1200 Yards" /><published>2017-06-22T00:00:00+01:00</published><updated>2017-06-22T00:00:00+01:00</updated><id>http://localhost:4000/general/2017/06/22/preparing%20ballistics</id><content type="html" xml:base="http://localhost:4000/general/2017/06/22/preparing-ballistics/">&lt;p&gt;Some Members of Christchurch Gun Club will soon be taking up the challenge of shooting at 1200 Yards - We’ve been shooting 1000 Yards for a while and decided we wanted to make things even more challenging.&lt;/p&gt;
 
 &lt;p&gt;Many of us will be using .308 calibre rifles and so this distance will be truly pushing the limits (at this range our bullets will likely have dropped through the transonic and into subsonic speeds before hopefully hitting somewhere on the paper) and so we need to check whether we have the scope adjustment needed and have a rough idea of the windage and elevation settings we’ll need on the day.&lt;/p&gt;
 
@@ -52,7 +52,74 @@ Also set your sight height and barrel twist in this section&lt;/p&gt;
 
 &lt;p&gt;My raw scope setting for the 1000 is 21.5 so with the the above I’d need to set the scope to 34.7 MOA… Now here’s an impotant note: &lt;strong&gt;My scope has an elevation range of 70 MOA (so 35 up and 35 down)… so you can see I am really pushing that limit…. But don’t panic Mr Mannering as the reticle has another 20 MOA of markings available for me to use.&lt;/strong&gt;&lt;/p&gt;
 
-&lt;p&gt;&lt;strong&gt;This is something that’s important for you to check yourselves.&lt;/strong&gt;&lt;/p&gt;</content><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><summary type="html">Some Members of Christchurch Gun Club will soon be taking up the challenge of shooting at 1200 Yards - We’ve been shooting 1000 Yards for a while and decided we wanted to make things even more challenging.</summary></entry><entry><title type="html">Measuring sight height</title><link href="http://localhost:4000/general/2017/06/21/sight-height/" rel="alternate" type="text/html" title="Measuring sight height" /><published>2017-06-21T00:00:00+01:00</published><updated>2017-06-21T00:00:00+01:00</updated><id>http://localhost:4000/general/2017/06/21/sight%20height</id><content type="html" xml:base="http://localhost:4000/general/2017/06/21/sight-height/">&lt;p&gt;One major rule with External ballistics is that if you input rubbish values - you’re going to get rubbish values back out again&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;This is something that’s important for you to check yourselves.&lt;/strong&gt;&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;p&gt;We can if we want to, try and refine the accuracy of these numbers so that we increase our chances of a good first shot&lt;/p&gt;
+
+&lt;p&gt;by using our ‘real-world’ values for our drop we can try to adjust the values in the calculator to more closely match what we see.&lt;/p&gt;
+
+&lt;p&gt;So in my case I have a sightron 8-32x scope that measures in MOA. I don’t have a specific zero value (and in this instance we want to note the scope value from the actual 0 on the elevation turret)&lt;/p&gt;
+
+&lt;p&gt;For example this is my 1000 yard setting:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.shootingcompanion.com/images/scope1000.jpg&quot; alt=&quot;JBM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Each full rotation on the turret (for my scope - check yours against your manufacturer) is 15 MOA. As I can see the ‘1’ on the barrel of the turret I have got 15 MOA in addition to the 6.5 that is on the turret itself (due to rotation direction it’s the difference between 8.5 MOA and 15 MOA rather than the literal 8.5)&lt;/p&gt;
+
+&lt;p&gt;So that means my raw scope value for 1000 Yards = 21.5 MOA above 0&lt;/p&gt;
+
+&lt;p&gt;Here’s another example in my 300 yard setting:&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.shootingcompanion.com/images/scope300.jpg&quot; alt=&quot;JBM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;in this case I’m actually below the 0 marker on the barrel (because I have a 20 MOA rail on my rifle):&lt;/p&gt;
+
+&lt;p&gt;I’m between the 0 and the -1 so I only need to look at the value on the turret and again we work backwards (so 15 - 8.25) My raw scope value here is -6.75 MOA&lt;/p&gt;
+
+&lt;p&gt;I also know my 600 and 900 yard values so that gives us this nice table&lt;/p&gt;
+
+&lt;table&gt;
+  &lt;thead&gt;
+    &lt;tr&gt;
+      &lt;th&gt;Distance&lt;/th&gt;
+      &lt;th&gt;Scope setting&lt;/th&gt;
+    &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+    &lt;tr&gt;
+      &lt;td&gt;300&lt;/td&gt;
+      &lt;td&gt;-6.75&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;600&lt;/td&gt;
+      &lt;td&gt;1.25&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;900&lt;/td&gt;
+      &lt;td&gt;15.5&lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+      &lt;td&gt;1000&lt;/td&gt;
+      &lt;td&gt;21.5&lt;/td&gt;
+    &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;So now back to the calculator - we want to try and make the third column (drop in our scope value) match as close as possible to our above scope values (so currently my 1000 yard drop in the table is -29.7 - we want it to be -21.5 (notice i’ve added the negative sign in front of the scope value… we’re now dealing with drop rather than elevation))&lt;/p&gt;
+
+&lt;p&gt;We’re never going to get all the values to match exactly so this is a ‘best guess’ exercise - Try to get the 900/1000 as close as possible (if the 300 is somewhat off it’s less of an issue)&lt;/p&gt;
+
+&lt;p&gt;So press back in your browser and locate the ‘zero range’ increase this distance if your actual scope value is lower than the calculated (and decrease if higher)&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.shootingcompanion.com/images/jbm9.png&quot; alt=&quot;JBM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Here I’ve set zero to 300 yards… still not enough for 1000 yard values to match so go back and increase it again&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;http://www.shootingcompanion.com/images/jbm10.png&quot; alt=&quot;JBM&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Now at 500 yards - we’re pretty close with the 1000 yard setting, the 900 yard values very close but the 300 and 600 are notably off… This means my muzzle velocity needs tweaking. Based on the numbers it is giving me a much flatter trajectory curve than i’m seeing in real life so i’m goin to need to slow the muzzle velocity down (and increase the zero range to compensate)’&lt;/p&gt;</content><author><name>Tim Pope</name><email>tim@code-on-the-brain.com</email></author><summary type="html">Some Members of Christchurch Gun Club will soon be taking up the challenge of shooting at 1200 Yards - We’ve been shooting 1000 Yards for a while and decided we wanted to make things even more challenging.</summary></entry><entry><title type="html">Measuring sight height</title><link href="http://localhost:4000/general/2017/06/21/sight-height/" rel="alternate" type="text/html" title="Measuring sight height" /><published>2017-06-21T00:00:00+01:00</published><updated>2017-06-21T00:00:00+01:00</updated><id>http://localhost:4000/general/2017/06/21/sight%20height</id><content type="html" xml:base="http://localhost:4000/general/2017/06/21/sight-height/">&lt;p&gt;One major rule with External ballistics is that if you input rubbish values - you’re going to get rubbish values back out again&lt;/p&gt;
 
 &lt;p&gt;An important but often overlooked value where this is true is ‘sight height’&lt;/p&gt;
 
