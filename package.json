@@ -1,11 +1,11 @@
 {
-    "title": "New Age",
-    "name": "startbootstrap-new-age",
-    "version": "5.0.6",
+    "title": "Shooting Companion",
+    "name": "shooting_companion",
+    "version": "1.0.1",
     "scripts": {
         "start": "node_modules/.bin/gulp watch"
     },
-    "description": "A one page app landing page HTML theme for Bootstrap.",
+    "description": "Shooting companion website",
     "keywords": [
         "css",
         "sass",
