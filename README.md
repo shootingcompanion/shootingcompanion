@@ -1,71 +1,68 @@
-# Treat
+# [Start Bootstrap - New Age](https://startbootstrap.com/template-overviews/new-age/)
 
-Food/baking blog template for Jekyll. Browse through a [live demo](https://spring-bat.cloudvent.net/).
+[New Age](http://startbootstrap.com/template-overviews/new-age/) is a web app landing page theme for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/).
 
-![Treat template screenshot](images/_screenshot.png)
+## Preview
 
-Treat was made by [CloudCannon](http://cloudcannon.com/), the Cloud CMS for Jekyll.
-Find more templates and themes at [Jekyll Tips](http://jekyll.tips/templates/).
+[![New Age Preview](https://startbootstrap.com/assets/img/screenshots/themes/new-age.png)](https://blackrockdigital.github.io/startbootstrap-new-age/)
 
-Learn Jekyll with step-by-step tutorials and videos at [Jekyll Tips](http://jekyll.tips/).
+**[View Live Preview](https://blackrockdigital.github.io/startbootstrap-new-age/)**
 
-## Features
+## Status
 
-* Contact form
-* Pre-built pages
-* Pre-styled components
-* Blog with pagination
-* Disqus comments for posts
-* Configurable sidebar
-* Optimised for editing in [CloudCannon](http://cloudcannon.com/)
-* RSS/Atom feed
-* SEO tags
-* Google Analytics
+[![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-new-age/master/LICENSE)
+[![npm version](https://img.shields.io/npm/v/startbootstrap-new-age.svg)](https://www.npmjs.com/package/startbootstrap-new-age)
+[![Build Status](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age.svg?branch=master)](https://travis-ci.org/BlackrockDigital/startbootstrap-new-age)
+[![dependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age)
+[![devDependencies Status](https://david-dm.org/BlackrockDigital/startbootstrap-new-age/dev-status.svg)](https://david-dm.org/BlackrockDigital/startbootstrap-new-age?type=dev)
 
-## Setup
+## Download and Installation
 
-1. Add your site and author details in `_config.yml`.
-2. Add your Google Analytics, Disqus and MailChimp keys to `_config.yml`.
-3. Add your details to `_data/sidebar.yml`
-4. Get a workflow going to see your site's output (with [CloudCannon](https://app.cloudcannon.com/) or Jekyll locally).
+To begin using this template, choose one of the following options to get started:
+* [Download the latest release on Start Bootstrap](https://startbootstrap.com/template-overviews/new-age/)
+* Install via npm: `npm i startbootstrap-new-age`
+* Clone the repo: `git clone https://github.com/BlackrockDigital/startbootstrap-new-age.git`
+* [Fork, Clone, or Download on GitHub](https://github.com/BlackrockDigital/startbootstrap-new-age)
 
-## Develop
+## Usage
 
-Treat was built with [Jekyll](http://jekyllrb.com/) version 3.4.3, but should support newer versions as well.
+### Basic Usage
 
-Install the dependencies with [Bundler](http://bundler.io/):
+After downloading, simply edit the HTML and CSS files included with the template in your favorite text editor to make changes. These are the only files you need to worry about, you can ignore everything else! To preview the changes you make to the code, you can open the `index.html` file in your web browser.
 
-~~~bash
-$ bundle install
-~~~
+### Advanced Usage
 
-Run `jekyll` commands through Bundler to ensure you're using the right versions:
+After installation, run `npm install` and then run `npm start` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
 
-~~~bash
-$ bundle exec jekyll serve
-~~~
+#### Gulp Tasks
 
-## Editing
+- `gulp` the default task that builds everything
+- `gulp watch` browserSync opens the project in your default browser and live reloads when changes are made
+- `gulp css` compiles SCSS files into CSS and minifies the compiled CSS
+- `gulp js` minifies the themes JS file
+- `gulp vendor` copies dependencies from node_modules to the vendor directory
 
-Treat is already optimised for adding, updating and removing recipes, navigation, page content, and sidebar information in CloudCannon.
+You must have npm installed globally in order to use this build environment.
 
-### Posts/Recipes
+## Bugs and Issues
 
-* Add, update or remove a post in the *Posts* collection.
-* The recipes page is organised by categories.
-* Change the defaults when new posts are created in `_posts/_defaults.md`.
+Have a bug or an issue with this template? [Open a new issue](https://github.com/BlackrockDigital/startbootstrap-new-age/issues) here on GitHub or leave a comment on the [template overview page at Start Bootstrap](http://startbootstrap.com/template-overviews/new-age/).
 
-### Contact Form
+## About
 
-* Preconfigured to work with CloudCannon, but easily changed to another provider (e.g. [FormSpree](https://formspree.io/)).
-* Sends email to the address listed in company details.
+Start Bootstrap is an open source library of free Bootstrap templates and themes. All of the free templates and themes on Start Bootstrap are released under the MIT license, which means you can use them for any purpose, even for commercial projects.
 
-### Navigation
+* https://startbootstrap.com
+* https://twitter.com/SBootstrap
 
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Navigation* section.
+Start Bootstrap was created by and is maintained by **[David Miller](http://davidmiller.io/)**, Owner of [Blackrock Digital](http://blackrockdigital.io/).
 
-### Footer
+* http://davidmiller.io
+* https://twitter.com/davidmillerskt
+* https://github.com/davidtmiller
 
-* Exposed as a data file to give clients better access.
-* Set in the *Data* / *Footer* section.
+Start Bootstrap is based on the [Bootstrap](http://getbootstrap.com/) framework created by [Mark Otto](https://twitter.com/mdo) and [Jacob Thorton](https://twitter.com/fat).
+
+## Copyright and License
+
+Copyright 2013-2019 Blackrock Digital LLC. Code released under the [MIT](https://github.com/BlackrockDigital/startbootstrap-new-age/blob/gh-pages/LICENSE) license.
