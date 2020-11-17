@@ -76,6 +76,7 @@ gtag('config', 'UA-99987080-1');
 			<section class="features" id="sessions">
 				<div class="container">
 					<h2>Sessions List</h2>
+					
 					<div class="container">
 						<div class="container">
 							<div class="row">
@@ -90,18 +91,27 @@ gtag('config', 'UA-99987080-1');
 										</div>
 									</div>
 								</div>
+								
 								<div class="col-lg-5">
-									<p class="text-muted">The first screen you see in the application. Table on left will display your previous sessions along with date, target type, and your short description entered on the session info screen. </p>
-									<p class="text-muted">Tapping '+' in the top right will create a new session. </p>
-									<p class="text-muted">Selecting an existing session in the list will let you see additional details on the right and edit the session with the button in the bottom right. </p>
-									<p class="text-muted">The 'share' button (top right next to '+' button) allows you to export the data for all saved sessions </p>
+									<p class="text-muted">The first screen you see in the application. Table on left will display your previous sessions along with date, target type, and your short description entered on the session info screen.</p>
+									
+									<p class="text-muted">Tapping '+' in the top right will create a new session.</p>
+									
+									<p class="text-muted">Selecting an existing session in the list will let you see additional details on the right and edit the session with the button in the bottom right.</p>
+									
+									<p class="text-muted">The 'share' button (top right next to '+' button) allows you to export the data for all saved sessions</p>
 								</div>
 							</div>
 						</div>
-						<p> </p>
+						
+						<p></p>
+						
 						<p class="text-muted">Handy Tips:</p>
-						<p class="text-muted"><li class="text-muted">Swipe left on a row in the table to delete a session</li>
-						<li class="text-muted">Tapping an existing session will show the elevation value for the last shot - Handy when you're shooting that distance again</li></p>
+						
+						<p class="text-muted">
+						<li class="text-muted">Swipe left on a row in the table to delete a session</li>
+						<li class="text-muted">Tapping an existing session will show the elevation value for the last shot - Handy when you're shooting that distance again</li>
+						</p>
 					</div>
 				</div>
 			</section>
@@ -109,6 +119,7 @@ gtag('config', 'UA-99987080-1');
 			<section class="features" id="info">
 				<div class="container">
 					<h2>Session Info</h2>
+					
 					<div class="container">
 						<div class="container">
 							<div class="row">
@@ -123,10 +134,13 @@ gtag('config', 'UA-99987080-1');
 										</div>
 									</div>
 								</div>
+								
 								<div class="col-lg-5">
 									<p class="text-muted">Here you can set the date and time of the session, the target face and distance as well as two different text fields to use how you want.</p>
-									<p class="text-muted">Tapping 'Continue' in the top right will take you to the main plotting screen. </p>
-									<p class="text-muted">The 'share' button (top right next to '+' button) allows you to export the data for just this selected session </p>
+									
+									<p class="text-muted">Tapping 'Continue' in the top right will take you to the main plotting screen.</p>
+									
+									<p class="text-muted">The 'share' button (top right next to '+' button) allows you to export the data for just this selected session (csv for excel).</p>
 								</div>
 							</div>
 						</div>
@@ -137,6 +151,7 @@ gtag('config', 'UA-99987080-1');
 			<section class="features" id="plot">
 				<div class="container">
 					<h2>Plotting</h2>
+					
 					<div class="container">
 						<div class="container">
 							<div class="row">
@@ -151,10 +166,91 @@ gtag('config', 'UA-99987080-1');
 										</div>
 									</div>
 								</div>
+								
 								<div class="col-lg-5">
-									<p class="text-muted">Blah sdkljfg sdflgikuh sdflkgjuhsdflk gjsdflkjgh sdfklj;gh sdfkl;ghsdl kfjgsdflkjhsdgfsdfg</p>
+									<p class="text-muted">Here is the main plotting screen. On the left is the target, on the right are the controls and shot details.</p>
+									
+									<p class="text-muted">Plotomatic mode can be toggled on/off using the button in the top right.</p>
+									
+									<p class="text-muted">Target can be zoomed with the Zoom button on the right. Zoomed view can be scrolled using a dragging motion with finger on target</p>
+									
+									<p class="text-muted">With plotomatic mode on, any changes to the windage or elevation will move the displayed shots on the target.</p>
 								</div>
 							</div>
+							
+							<p></p>
+							
+							<div class="row">
+								<div class="col-sm-8">
+									<p class="text-muted">To get started you should first set your preferred zoom level on the target (note you can scroll on the zoomed target by holding and moving your finger around).</p>
+								</div>
+								
+								<div class="col-sm">
+									<img src="img/zoom.png" class="img-fluid" alt="">
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="col-sm-8">
+									<p class="text-muted">Next set you scope windage and elevation in the app to match those on your actual scope</p>
+									
+									<p class="text-muted">The top stepper controls will change the setting by a single turret click (either 1/4 MOA or 1/8 MOA depending on the default you selected)</p>
+									
+									<p class="text-muted">The bottom stepper controls will change the setting by 1 MOA</p>
+								</div>
+								
+								<div class="col-sm">
+									<img src="img/scope.png" class="img-fluid" alt="">
+								</div>
+							</div>
+							
+							<p class="text-muted">Now you're ready to plot your first shot</p>
+							
+							<div class="row">
+								<div class="col-sm-8">
+									<p class="text-muted">Your first tap on target will place a pale blue marker (with an 'A' inside) to represent where you aimed on target</p>
+									<p class="text-muted">Your second tap on target will place a yellow marker (with an 'I' inside) to represent where your shot impacted on target</p>
+									<p class="text-muted">If you tap again it will clear both points and add a new blue aim point to the target (and follow up tap will place new impact point)</p>
+								</div>
+								
+								<div class="col-sm">
+									<img src="img/poa.png" class="img-fluid" alt="">
+								</div>
+							</div>
+							
+							<div class="row">
+								<div class="col-sm-8">
+									<p class="text-muted">The score for the point of impact is displayed just below the table on the right (along with its MOA from the centre point). Handy to check against the score on target before you save</p>
+								</div>
+								
+								<div class="col-sm">
+									<img src="img/shotscore.png" class="img-fluid" alt="">
+								</div>
+							</div>
+							<div class="row">
+								<div class="col-sm-8">
+									<p class="text-muted">You can just save the shot, or save it with a note (if you pulled the shot or know you made a bad call)</p>
+								</div>
+								
+								<div class="col-sm">
+									<img src="img/save.png" class="img-fluid" alt="">
+								</div>
+							</div>
+							
+							<p class="text-muted">Handy Tips:</p>
+							
+							<p class="text-muted">
+							<li class="text-muted">Swipe left on a row in the table to delete a recorded shot</li>
+							</p>
+							<p class="text-muted">
+							<li class="text-muted">Tapping a shot in the table will highlight it on the target (tap again to toggle highlight off). If plotomatic mode is off you will also see your aim point</li>
+							</p>
+							<p class="text-muted">
+							<li class="text-muted">The title bar also includes the total score of the session. If you highlight a shot, it will be removed from this sum total (making it easy to remove sighting shots from the total score)</li>
+							</p>
+							<p class="text-muted">
+							<li class="text-muted">You can place a horizontal or vertical line that spans the width of a target (to use as a bracketing guide) by placing an aim point and then tapping the 'Bracket' button</li>
+							</p>
 						</div>
 					</div>
 				</div>
@@ -163,6 +259,7 @@ gtag('config', 'UA-99987080-1');
 			<section class="features" id="graph">
 				<div class="container">
 					<h2>Graphs</h2>
+					
 					<div class="container">
 						<div class="container">
 							<div class="row">
@@ -177,8 +274,9 @@ gtag('config', 'UA-99987080-1');
 										</div>
 									</div>
 								</div>
+								
 								<div class="col-lg-5">
-									<p class="text-muted">Blah sdkljfg sdflgikuh sdflkgjuhsdflk gjsdflkjgh sdfklj;gh sdfkl;ghsdl kfjgsdflkjhsdgfsdfg</p>
+									<p class="text-muted">This screen shows you a simple graph of the wind and elevation MOA over the course of fire (it takes scope settings and aim point into account, so you see exactly what the changes in the conditions were).</p>
 								</div>
 							</div>
 						</div>
